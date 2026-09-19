@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/joaotardin/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
 <a href="https://www.skills.google/public_profiles/90fef5cc-bb9b-4968-ac82-1b6abb909c42?locale=pt_BR"><img src="https://img.shields.io/badge/-Google%20Skills-EA4335?style=for-the-badge&logo=google&logoColor=white" height="40"/></a>
-<a href="https://tardin2005-netizen.github.io/joaotardin/"><img src="https://img.shields.io/badge/-Portfólio-1A1A2E?style=for-the-badge&logo=googlechrome&logoColor=white" height="40"/></a>
+<a href="https://tardin2005-netizen.github.io/Joaotardin/"><img src="https://img.shields.io/badge/-Portfólio-1A1A2E?style=for-the-badge&logo=googlechrome&logoColor=white" height="40"/></a>
 
 ## Stack Tecnológico
 
